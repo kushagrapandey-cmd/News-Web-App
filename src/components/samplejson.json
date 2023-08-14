@@ -1,0 +1,105 @@
+{
+  "status": "ok",
+  "totalResults": 9,
+  "articles": [
+    {
+      "source": { "id": "google-news-uk", "name": "Google News (UK)" },
+      "author": "The Guardian",
+      "title": "Woman charged with murder after dog walker stabbed in Sheffield park - The Guardian",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS91ay1uZXdzLzIwMjMvYXVnLzEyL3dvbWFuLWNoYXJnZWQtd2l0aC1hZnRlci1kb2ctd2Fsa2VyLXN0YWJiZWQtaW4tc2hlZmZpZWxkLXBhcmvSAW1odHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vdWstbmV3cy8yMDIzL2F1Zy8xMi93b21hbi1jaGFyZ2VkLXdpdGgtYWZ0ZXItZG9nLXdhbGtlci1zdGFiYmVkLWluLXNoZWZmaWVsZC1wYXJr?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-08-12T13:13:00+00:00",
+      "content": null
+    },
+    {
+      "source": { "id": "news24", "name": "News24" },
+      "author": "Cebelihle Mthethwa",
+      "title": "JUST IN | Gunmen mow down six people in KZN mass murder",
+      "description": "Police are searching for four gunmen who shot and killed six people while they were trying to locate an ID belonging to one of the assailants in Umlazi on Friday night.",
+      "url": "https://www.news24.com/news24/southafrica/news/just-in-gunmen-mow-down-six-people-in-kzn-mass-murder-20230812",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/3579/9fac3df933f8439482666cca60c9af0f.jpg",
+      "publishedAt": "2023-08-12T10:15:17+00:00",
+      "content": "Police are searching for four gunmen who shot and killed six people at Q section in Umlazi, KwaZulu-Natal, on Friday night.\r\nThe shooters opened fire at a house just before midnight and killed two pe… [+541 chars]"
+    },
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": "Andrew Backhouse",
+      "title": "12,000 people watch execution on Instagram",
+      "description": "A bodybuilder livestreamed the murder of his ex-wife on Instagram before killing two other people.",
+      "url": "https://www.news.com.au/technology/online/bodybuilder-nermin-sulejmanovic-livestreams-murder-of-his-exwife-life-on-instagram/news-story/1614c1aa20e4b1cfc358bf7e3175347f",
+      "urlToImage": "https://content.api.news/v3/images/bin/749eb1feb877b7123bd83c4ded1433eb",
+      "publishedAt": "2023-08-12T05:14:00Z",
+      "content": "A bodybuilder livestreamed the murder of his ex-wife on Instagram before killing two other people.\r\nThe murder took place in the Bosnian town of Gradacac on Friday, local media reported.\r\nThree other… [+2867 chars]"
+    },
+    {
+      "source": {
+        "id": "entertainment-weekly",
+        "name": "Entertainment Weekly"
+      },
+      "author": "Lauren Huff",
+      "title": "<em>Family Feud</em> contestant who joked about marriage on air gets life in prison for wife's murder",
+      "description": "Tim Bliefnick received a natural life sentence, meaning there will be no opportunity for parole, credit for time served, or possibility of release.",
+      "url": "https://ew.com/tv/family-feud-contestant-gets-life-sentence-for-murdering-wife/",
+      "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=7%2C101%2C1993%2C1094&poi=%5B1060%2C573%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2023%2F03%2F16%2FTim-Bliefnick-031623.jpg",
+      "publishedAt": "2023-08-12T04:20:10Z",
+      "content": "Timothy \"Tim\" W. Bliefnick, a former Family Feud contestant who infamously joked about regretting marriage while appearing on the game show, was handed three life sentences in prison in an Illinois c… [+2061 chars]"
+    },
+    {
+      "source": { "id": "the-huffington-post", "name": "The Huffington Post" },
+      "author": "AP",
+      "title": "California Judge Charged With Wife's Murder, Dozens Of Weapons Seized From Home",
+      "description": "Prosecutors say a Southern California judge accused of killing his wife had texted his court clerk and bailiff afterward to say he had shot her.",
+      "url": "https://www.huffpost.com/entry/california-judge-murder-jeffrey-ferguson_n_64d666ece4b071a0e77fb857",
+      "urlToImage": "https://img.huffingtonpost.com/asset/64d66a50260000330011a880.jpeg?cache=GdMTtpZnJ8&ops=1200_630",
+      "publishedAt": "2023-08-11T17:07:21Z",
+      "content": "SANTA ANA, Calif. (AP) A Southern California judge accused of killing his wife texted his court clerk and bailiff afterward to say he had shot her, prosecutors said Friday as they charged him with mu… [+2110 chars]"
+    },
+    {
+      "source": {
+        "id": "entertainment-weekly",
+        "name": "Entertainment Weekly"
+      },
+      "author": "Gerrad Hall",
+      "title": "<em>Dahmer</em> star Niecy Nash-Betts is 'skittish' about working with guns after brother's murder: 'I know the pain'",
+      "description": "The Emmy nominee gets candid on EW's <em>Awardist</em> podcast about her career journey, how her family tragedy shapes her choices, and playing Jeffrey Dahmer's neighbor.",
+      "url": "https://ew.com/the-awardist-podcast/niecy-nash-glenda-dahmer-violence/",
+      "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=0%2C48%2C2000%2C1048&poi=%5B1060%2C546%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2023%2F08%2F03%2FAwardist-Podcast-AUG7.jpg",
+      "publishedAt": "2023-08-10T18:00:00Z",
+      "content": "Niecy Nash-Betts didn't know what role — or even what project — she was saying yes to when she got a blind offer for Netflix's Dahmer — Monster: The Jeffrey Dahmer Story. \r\n\"Ryan Murphy called me and… [+3928 chars]"
+    },
+    {
+      "source": {
+        "id": "entertainment-weekly",
+        "name": "Entertainment Weekly"
+      },
+      "author": "Gerrad Hall",
+      "title": "What to Watch this week: A new mystery on <em>Only Murders</em>, a secret affair in <em>Red, White & Royal Blue</em>",
+      "description": "Plus, the final seasons of <em>Billions</em> and <em>High School Musical: The Musical: The Series</em>, and Gal Gadot stars in the action-thriller <em>Heart of Stone</em>.",
+      "url": "https://ew.com/what-to-watch-podcast/what-to-watch-schedule-only-murders-red-white-royal-blue/",
+      "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=0%2C0%2C2000%2C1000&poi=face&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2023%2F08%2F03%2FSOC-WTW-AUG7-2000.jpg",
+      "publishedAt": "2023-08-07T16:00:00Z",
+      "content": "Steve Martin, Martin Short, and Selena Gomez are in the middle of another mystery in season 3 of Hulu's Only Murders in the Building, which welcomes Meryl Streep and Paul Rudd into the comedic action… [+6594 chars]"
+    },
+    {
+      "source": { "id": "newsweek", "name": "Newsweek" },
+      "author": "Khaleda Rahman",
+      "title": "Murder-Suicides Reach Record High",
+      "description": "The vast majority of murder-suicides are perpetrated by men, often using guns, experts told Newsweek. Societal factors may have made the problem worse.",
+      "url": "https://www.newsweek.com/murder-suicides-rise-why-domestic-violence-1786089",
+      "urlToImage": "https://d.newsweek.com/en/full/2206183/male-murder-suicides-rise.jpg",
+      "publishedAt": "2023-03-09T17:00:01Z",
+      "content": "<ul><li>Marla Hudgens and her three children were killed in a murder-suicide by her husband in November last year.</li><li>Research shows that such incidents are on the rise, with 2022 seeing the hig… [+11097 chars]"
+    },
+    {
+      "source": { "id": "the-globe-and-mail", "name": "The Globe And Mail" },
+      "author": "Molly Hayes",
+      "title": "OPP officers provide testimony at inquest into 2015 triple murders",
+      "description": "Four OPP officers addressed difficulties they had while discovering three deaths in 2015 connected by intimate partner violence",
+      "url": "https://www.theglobeandmail.com/canada/article-opp-provide-testimony-at-inquest-into-2015-triple-murders/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/B_0AHIFyolFcOl24Dt2Q82GJ_f4=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/BPRCBGA52VCDHGHL2GMDLH2QSA.JPG",
+      "publishedAt": "2022-06-16T01:18:17Z",
+      "content": "A real estate billboard of slain Anastasia Kuzyk along Highway 60 in Wilno, Ont., in 2015.Dave Chan/The Globe and Mail\r\nAs soon as she heard Anastasia Kuzyks address read out over her police radio on… [+4544 chars]"
+    }
+  ]
+}
