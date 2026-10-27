@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+# NewsMonkey
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A React news interface that retrieves category-based headlines through NewsAPI.
 
-## Available Scripts
+## Implemented features
 
-In the project directory, you can run:
+- Routes for general, business, entertainment, health, science, sports and technology headlines.
+- Article cards with images, source, author, publication time and outbound links.
+- Previous/next pagination.
+- Loading spinner and top progress indicator.
 
-### `npm start`
+## Structure
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- `src/App.js` — category routes and loading-progress state.
+- `src/components/News.js` — API requests, pagination and article rendering.
+- `src/components/NewsItems.js` — article cards.
+- `src/components/Navbar.js` — category navigation.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Stack: React 18 class components, React Router 6 and Create React App.
 
-### `npm test`
+## Local development
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+npm install
+npm start
+```
 
-### `npm run build`
+`npm run build` creates a production bundle. Headline retrieval requires a valid NewsAPI key and provider permission for the chosen environment.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Status
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+An earlier API-integration project. The checked-in implementation contains a historical client-side API key, including generated build artifacts. Treat it as exposed: its owner must revoke it. A public frontend cannot keep a provider key secret; real deployment requires a server-side integration and removal of the old generated bundle. Do not rely on the historical credential or assume live retrieval has been verified.
